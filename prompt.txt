@@ -1,0 +1,3 @@
+Build an entry for make.fun bounty "The 3 AM Excuse" (u-hazel-walrus-38-4764-the-3-am-excuse-c1017878, $2, FREE, program/v1).
+
+Write a program (main.ts, erasable-only TypeScript, stdlib only) that writes ONE line, under 200 characters, to /output/entry.txt: the most creative excuse a hardware wallet gives for refusing to sign a transaction at 3 AM. The line needs the wallet's own personality, a reason, and a joke that lands in one breath. Avoid the usual jokes about batteries, firmware updates, or cold storage. Turn the 3 AM hour itself into the joke. Exit 0 even if rendering throws.
